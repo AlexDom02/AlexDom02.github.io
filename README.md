@@ -5,7 +5,5 @@
 
 To add image Exclamation, square brackets, file link
 
-![Graph](https://github.com/AlexDom02/AlexDom02.github.io/blob/main/Screenshot%202024-04-15%20005401.png)
-
 ```python
 def 
